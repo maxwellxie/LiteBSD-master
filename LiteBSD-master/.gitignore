@@ -1,0 +1,9 @@
+*.o
+*.po
+*.0
+*.a
+*.elf
+.depend
+
+DESTDIR
+sdcard.img
